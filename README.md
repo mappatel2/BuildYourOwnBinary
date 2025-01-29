@@ -8,7 +8,7 @@ The game is divided into 2 Main Parts -
 2. Using the Line Directions Panel on the left user has to draw the pattern
 
 ## How To Play
-There is Windows File Executable in the Build Folde. You will have to download the folder and just the run the game to play!
+There is Windows File Executable in the Build Folder. You will have to download the folder and just the run the game to play!
 
 ## Step 1: Start Point Selection
 Below is the Binary Table that Represents what binary value that corresponds to row and column number of the cell on the grid
